@@ -1,6 +1,6 @@
 # Web Development Project
 
-![Web Development Project - Entire Page](Web-Development-Project.jpg)
+![Web Development Project - Entire Page](wdp.jpg)
 
 Адаптивная вёрстка шаблона **Web Development Project**.
 
